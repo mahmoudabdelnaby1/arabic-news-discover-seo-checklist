@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "وزارة التجارة السعودية تعلن عن حزمة حوافز جديدة لدعم رواد التجارة الإلكترونية",
+  "image": [
+    "https://news.sa/images/hero-1200x675.jpg"
+  ],
+  "datePublished": "2026-10-30T09:00:00+03:00",
+  "dateModified": "2026-10-30T10:30:00+03:00",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "أحمد عبد الله",
+      "url": "https://news.sa/authors/ahmed-abdullah",
+      "jobTitle": "محرر شؤون الاقتصاد الرقمي"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "أخبار الاقتصاد الرقمي",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://news.sa/logo.png"
+    }
+  }
+}
